@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node {
+  cursor: pointer;
+}
+
+.node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node0, .node1, .node2{
+    fill: rgba(0, 0, 0, 0.06);
+}
+
+
+.label {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.label{
+   
+    pointer-events: none;
+}
+.node--root,
+.node--leaf {
+ /* */
+}
+
+
+
+
+.tipsy { font-size: 12px; position: absolute; padding: 5px; z-index: 100000;
+font-family: verdana }
+  .tipsy-inner { background-color: #000; color: #FFF; max-width: 200px; padding: 5px 8px 4px 8px; text-align: center; }
+
+  /* Rounded corners */
+  .tipsy-inner { border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+  
+  /* Uncomment for shadow */
+  .tipsy-inner { box-shadow: 0 0 5px #000000; -webkit-box-shadow: 0 0 5px #000000; -moz-box-shadow: 0 0 5px #000000; }
+  
+  .tipsy-arrow { position: absolute; width: 0; height: 0; line-height: 0; border: 5px dashed #000; }
+  
+  /* Rules to colour arrows */
+  .tipsy-arrow-n { border-bottom-color: #000; }
+  .tipsy-arrow-s { border-top-color: #000; }
+  .tipsy-arrow-e { border-left-color: #000; }
+  .tipsy-arrow-w { border-right-color: #000; }
+  
+  .tipsy-n .tipsy-arrow { top: 0px; left: 50%; margin-left: -5px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-nw .tipsy-arrow { top: 0; left: 10px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent;}
+    .tipsy-ne .tipsy-arrow { top: 0; right: 10px; border-bottom-style: solid; border-top: none;  border-left-color: transparent; border-right-color: transparent;}
+  .tipsy-s .tipsy-arrow { bottom: 0; left: 50%; margin-left: -5px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-sw .tipsy-arrow { bottom: 0; left: 10px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-se .tipsy-arrow { bottom: 0; right: 10px; border-top-style: solid; border-bottom: none; border-left-color: transparent; border-right-color: transparent; }
+  .tipsy-e .tipsy-arrow { right: 0; top: 50%; margin-top: -5px; border-left-style: solid; border-right: none; border-top-color: transparent; border-bottom-color: transparent; }
+  .tipsy-w .tipsy-arrow { left: 0; top: 50%; margin-top: -5px; border-right-style: solid; border-left: none; border-top-color: transparent; border-bottom-color: transparent; }
+
+</style>
+<body>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script> 
+    <script type="text/javascript" src="jquery.tipsy.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<script>
+
+
+var margin = 20,
+    diameter = 900;
+var color = d3.scale.linear()
+    .domain([-1, 5])
+    .range(["rgb(254,254,254)", "rgb(200,200,200)"]);
+
+var pack = d3.layout.pack()
+    .padding(5)
+    .size([diameter - margin, diameter - margin])
+    .value(function(d) { return d.size; })
+
+var svg = d3.select("body").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter)
+  .append("g")
+    .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+
+root = {"children":[{"name":"Romero Jorge Roman","class":"apellido_nombre","size":74649.6,"color":"","label":["Romero Jorge Roman"]},{"name":"Administracion Federal de Ingresos Publicos","class":"organismo","children":[{"name":"Vaca Olga Norma","class":"apellido_nombre","size":291267.89,"color":"Administracion Federal de Ingresos Publicos","label":["Vaca Olga Norma"]},{"name":"Soto Blanca Rosana","class":"apellido_nombre","size":40862.84,"color":"Administracion Federal de Ingresos Publicos","label":["Soto Blanca Rosana"]},{"name":"Boetto Pedro Hugo","class":"apellido_nombre","size":155520,"color":"Administracion Federal de Ingresos Publicos","label":["Boetto Pedro Hugo"]},{"name":"Rivas Silvana Haydee","class":"apellido_nombre","size":162730,"color":"Administracion Federal de Ingresos Publicos","label":["Rivas Silvana Haydee"]},{"name":"Giardina Cosme Diego","class":"apellido_nombre","size":127050.72,"color":"Administracion Federal de Ingresos Publicos","label":["Giardina Cosme Diego"]},{"name":"Medina Alberto Onofre","class":"apellido_nombre","size":49042.87,"color":"Administracion Federal de Ingresos Publicos","label":["Medina Alberto Onofre"]},{"name":"Alfaro Veronica Alejandra","class":"apellido_nombre","size":55571,"color":"Administracion Federal de Ingresos Publicos","label":["Alfaro Veronica Alejandra"]},{"name":"Navas Maria Fernanda","class":"apellido_nombre","size":155520,"color":"Administracion Federal de Ingresos Publicos","label":["Navas Maria Fernanda"]},{"name":"Marrese Gabriel Marcelo","class":"apellido_nombre","size":155520,"color":"Administracion Federal de Ingresos Publicos","label":["Marrese Gabriel Marcelo"]},{"name":"Sosa Hugo Marcelo","class":"apellido_nombre","size":62453.56,"color":"Administracion Federal de Ingresos Publicos","label":["Sosa Hugo Marcelo"]},{"name":"Zotelo Juana Lujan","class":"apellido_nombre","size":90201.6,"color":"Administracion Federal de Ingresos Publicos","label":["Zotelo Juana Lujan"]},{"name":"Cabrera Teresa Isabel","class":"apellido_nombre","size":118695.75,"color":"Administracion Federal de Ingresos Publicos","label":["Cabrera Teresa Isabel"]},{"name":"Ayllon Maria Mercedes","class":"apellido_nombre","size":129600,"color":"Administracion Federal de Ingresos Publicos","label":["Ayllon Maria Mercedes"]},{"name":"Tarditti Lucila Patricia","class":"apellido_nombre","size":69888.52,"color":"Administracion Federal de Ingresos Publicos","label":["Tarditti Lucila Patricia"]}]},{"name":"Superintendencia de Riesgos del Trabajo","class":"organismo","children":[{"name":"Sanchez Juan Martin","class":"apellido_nombre","size":40000,"color":"Superintendencia de Riesgos del Trabajo","label":["Sanchez Juan Martin"]},{"name":"Marozzi Diego Hernan","class":"apellido_nombre","size":52242,"color":"Superintendencia de Riesgos del Trabajo","label":["Marozzi Diego Hernan"]}]},{"name":"Correo Oficial de la Republica Argentina Sociedad","class":"organismo","children":[{"name":"Lencina Carlos Heraldo","class":"apellido_nombre","size":46303.61,"color":"Correo Oficial de la Republica Argentina Sociedad","label":["Lencina Carlos Heraldo"]},{"name":"Dadomo Ana Maria","class":"apellido_nombre","size":162705.17,"color":"Correo Oficial de la Republica Argentina Sociedad","label":["Dadomo Ana Maria"]}]},{"name":"Contaduria General del Ejercito","class":"organismo","children":[{"name":"Agostini Alejandro Ernesto","class":"apellido_nombre","size":150958.08,"color":"Contaduria General del Ejercito","label":["Agostini Alejandro Ernesto"]},{"name":"Torres Jose Alejandro","class":"apellido_nombre","size":116756.27,"color":"Contaduria General del Ejercito","label":["Torres Jose Alejandro"]}]},{"name":"Quintana Dante Julio Cesar","class":"apellido_nombre","size":94650.6,"color":"","label":["Quintana Dante Julio Cesar"]},{"name":"Sindicatura General de la Nacion","class":"organismo","children":[{"name":"Viso Leonardo Gabriel","class":"apellido_nombre","size":40803.74,"color":"Sindicatura General de la Nacion","label":["Viso Leonardo Gabriel"]},{"name":"Parodi Silvana Gabriela","class":"apellido_nombre","size":88247.15,"color":"Sindicatura General de la Nacion","label":["Parodi Silvana Gabriela"]}]},{"name":"Direccion Nacional de Vialidad","class":"organismo","children":[{"name":"Monteros Belisario Javier","class":"apellido_nombre","size":43607,"color":"Direccion Nacional de Vialidad","label":["Monteros Belisario Javier"]},{"name":"Finetti Gonzalez Mariangeles","class":"apellido_nombre","size":49714,"color":"Direccion Nacional de Vialidad","label":["Finetti Gonzalez Mariangeles"]},{"name":"Ferrazzo Leonardo","class":"apellido_nombre","size":40000,"color":"Direccion Nacional de Vialidad","label":["Ferrazzo Leonardo"]},{"name":"Cussi Jorge Luis","class":"apellido_nombre","size":57600,"color":"Direccion Nacional de Vialidad","label":["Cussi Jorge Luis"]}]},{"name":"Instituto Nacional de Servicios Sociales Para Jubi","class":"organismo","children":[{"name":"Capucchio Flavio German","class":"apellido_nombre","size":52000,"color":"Instituto Nacional de Servicios Sociales Para Jubi","label":["Capucchio Flavio German"]},{"name":"Carbone Nicolas Raul","class":"apellido_nombre","size":70094.48,"color":"Instituto Nacional de Servicios Sociales Para Jubi","label":["Carbone Nicolas Raul"]},{"name":"Ferreyrola Rosana Andrea","class":"apellido_nombre","size":40000,"color":"Instituto Nacional de Servicios Sociales Para Jubi","label":["Ferreyrola Rosana Andrea"]},{"name":"Erreguerena Juan Pablo","class":"apellido_nombre","size":45200,"color":"Instituto Nacional de Servicios Sociales Para Jubi","label":["Erreguerena Juan Pablo"]},{"name":"Caro Maria Luisa","class":"apellido_nombre","size":90102,"color":"Instituto Nacional de Servicios Sociales Para Jubi","label":["Caro Maria Luisa"]},{"name":"Saparrat Monica Lucia","class":"apellido_nombre","size":105321.6,"color":"Instituto Nacional de Servicios Sociales Para Jubi","label":["Saparrat Monica Lucia"]}]},{"name":"Iñiguez Ivan Fabian","class":"apellido_nombre","size":112690,"color":"","label":["Iñiguez Ivan Fabian"]},{"name":"Nieto Juan Manuel","class":"apellido_nombre","size":58340,"color":"","label":["Nieto Juan Manuel"]},{"name":"Ministerio de Cultura","class":"organismo","children":[{"name":"De Carli Merep Carlos Alberto","class":"apellido_nombre","size":43007,"color":"Ministerio de Cultura","label":["De Carli Merep Carlos Alberto"]}]},{"name":"Subsecretaria de Medios E Informacion Publica","class":"organismo","children":[{"name":"Contrera Monica Graciela","class":"apellido_nombre","size":93801.6,"color":"Subsecretaria de Medios E Informacion Publica","label":["Contrera Monica Graciela"]}]},{"name":"Gendarmeria Nacional","class":"organismo","children":[{"name":"Scalabrelli Dario Hernan","class":"apellido_nombre","size":150739.04,"color":"Gendarmeria Nacional","label":["Scalabrelli Dario Hernan"]},{"name":"Mendez Victor Manuel","class":"apellido_nombre","size":195660.78,"color":"Gendarmeria Nacional","label":["Mendez Victor Manuel"]},{"name":"Chietti Luis Alejandro Ramon","class":"apellido_nombre","size":263762.24,"color":"Gendarmeria Nacional","label":["Chietti Luis Alejandro Ramon"]}]},{"name":"Banco de la Nacion Argentina","class":"organismo","children":[{"name":"Molina Osvaldo Guillermo","class":"apellido_nombre","size":90202,"color":"Banco de la Nacion Argentina","label":["Molina Osvaldo Guillermo"]}]},{"name":"Fuerza Aerea Argentina","class":"organismo","children":[{"name":"Scardino Antonio Vicente","class":"apellido_nombre","size":116756.27,"color":"Fuerza Aerea Argentina","label":["Scardino Antonio Vicente"]}]},{"name":"Universidad Nacional de Entre Rios","class":"organismo","children":[{"name":"Gimenez Fernando Omar","class":"apellido_nombre","size":52000,"color":"Universidad Nacional de Entre Rios","label":["Gimenez Fernando Omar"]}]},{"name":"Universidad Nacional de Lanus","class":"organismo","children":[{"name":"De Rose Heraldo Roberto","class":"apellido_nombre","size":64346,"color":"Universidad Nacional de Lanus","label":["De Rose Heraldo Roberto"]}]},{"name":"Genellina Sergio Fabian","class":"apellido_nombre","size":81725.15,"color":"","label":["Genellina Sergio Fabian"]},{"name":"Comision Nacional de Evaluacion y Acreditacion Uni","class":"organismo","children":[{"name":"Filippa Ana Gloria","class":"apellido_nombre","size":42680,"color":"Comision Nacional de Evaluacion y Acreditacion Uni","label":["Filippa Ana Gloria"]}]},{"name":"Ministerio de Economia y Finanzas Publicas","class":"organismo","children":[{"name":"Sanchez Maria Eva","class":"apellido_nombre","size":49842,"color":"Ministerio de Economia y Finanzas Publicas","label":["Sanchez Maria Eva"]}]},{"name":"Universidad de Buenos Aires","class":"organismo","children":[{"name":"Zicovich Wilson Sergio Alejandro","class":"apellido_nombre","size":94874,"color":"Universidad de Buenos Aires","label":["Zicovich Wilson Sergio Alejandro"]}]},{"name":"Policia Federal Argentina","class":"organismo","children":[{"name":"Servino Marcelo Daniel","class":"apellido_nombre","size":53883,"color":"Policia Federal Argentina","label":["Servino Marcelo Daniel"]}]},{"name":"Superintendencia de Servicios de Salud","class":"organismo","children":[{"name":"Haas Luciano Rafael","class":"apellido_nombre","size":45829,"color":"Superintendencia de Servicios de Salud","label":["Haas Luciano Rafael"]}]},{"name":"Pastrana Miguel Angel","class":"apellido_nombre","size":90201.6,"color":"","label":["Pastrana Miguel Angel"]},{"name":"Ministerio de Salud","class":"organismo","children":[{"name":"Garozzo Maria Natalia","class":"apellido_nombre","size":78000,"color":"Ministerio de Salud","label":["Garozzo Maria Natalia"]}]},{"name":"Municipalidad de la Ciudad de Resistencia","class":"organismo","children":[{"name":"Siri Eduardo Anibal","class":"apellido_nombre","size":74400,"color":"Municipalidad de la Ciudad de Resistencia","label":["Siri Eduardo Anibal"]}]},{"name":"Ministerio de Trabajo Empleo y Seguridad Social","class":"organismo","children":[{"name":"Sepulveda Maria Natalia","class":"apellido_nombre","size":42000,"color":"Ministerio de Trabajo Empleo y Seguridad Social","label":["Sepulveda Maria Natalia"]}]},{"name":"Meschini Paola Lorena","class":"apellido_nombre","size":54852,"color":"","label":["Meschini Paola Lorena"]},{"name":"Agencia Nacional de Seguridad Vial","class":"organismo","children":[{"name":"Centeno Pedro Ignacio","class":"apellido_nombre","size":50000,"color":"Agencia Nacional de Seguridad Vial","label":["Centeno Pedro Ignacio"]}]},{"name":"Tricarico Ernesto Jose","class":"apellido_nombre","size":108241.92,"color":"","label":["Tricarico Ernesto Jose"]}]}
+
+  var focus = root,
+      nodes = pack.nodes(root),
+      view;
+
+  var circle = svg.selectAll("circle")
+      .data(nodes)
+    .enter().append("circle")
+      .attr("class", function(d) {
+                    return "node node"+d.depth;
+                  })
+
+      .style("fill", function(d) { 
+                  if (!d.children) {
+                    if (d.color != "F"){
+                            return "#94D7FF";
+                          }else {
+                            return "#FF94BB";
+                          }
+                    }else{
+                      /*return color(d.depth);*/
+                    }
+                  })
+      .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+
+
+ $('.node2').tipsy({ 
+        gravity: 'w', 
+        html: true, 
+        title: function() {
+         var d = this.__data__, c;
+          return d.name+'<br>Gastos: $'+ (Math.round(d.size/12)) + " por mes<br> (Org:" + d.parent.name +")" ; 
+        }
+      });
+ $('.node3').tipsy({ 
+        gravity: 'w', 
+        html: true, 
+        title: function() {
+         var d = this.__data__, c;
+          return d.name+'<br>Gastos: $'+ (Math.round(d.size/12)) + " por mes<br> (Org:" + d.parent.name +")" ; 
+        }
+      });
+
+$('.node1').tipsy({ 
+        gravity: 'w', 
+        html: true, 
+        title: function() {
+         var d = this.__data__, c;
+          return "Centro:"+d.name+"<br>"+d.children.length+" cursos"; 
+        }
+      });
+
+
+  var text = svg.selectAll("text")
+      .data(nodes)
+    .enter().append("text")
+      .attr("class", "label")
+      .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
+      .style("display", function(d) { return d.parent === root ? null : "none"; })
+      .text(function(d) { return d.name; });
+
+  var node = svg.selectAll("circle,text");
+
+  d3.select("body")
+      .on("click", function() { zoom(root); });
+
+  zoomTo([root.x, root.y, root.r * 2 + margin]);
+
+  function zoom(d) {
+    var focus0 = focus; focus = d;
+
+    var transition = d3.transition()
+        .duration(d3.event.altKey ? 7500 : 750)
+        .tween("zoom", function(d) {
+          var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+          return function(t) { zoomTo(i(t)); };
+        });
+
+    transition.selectAll("text")
+      .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
+        .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
+        .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
+        .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+  }
+
+  function zoomTo(v) {
+    var k = diameter / v[2]; view = v;
+    node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
+    circle.attr("r", function(d) { return d.r * k; });
+  }
+
+
+d3.select(self.frameElement).style("height", diameter + "px");
+
+</script>
+
+</body>
+</html>

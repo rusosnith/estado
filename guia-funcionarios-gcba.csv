@@ -1,0 +1,470 @@
+repa_sigla;repa_padre_sigla;repa_nombre;repa_funcionario;repa_funcionario_correo
+AJG;GCBA;Jefe de Gobierno;Ing. Mauricio Macri;mmacri@buenosaires.gov.ar
+SCS;AJG;Secretaría de Comunicación Social;Sr. Pablo Gaytan;pgaytan@buenosaires.gob.ar
+SECLYT;AJG;Secretaría de Legal y Técnica;Dr. Pablo Clusellas;pclusellas@buenosaires.gob.ar
+UAILYT;SECLYT;Unidad de Auditoría Interna;Cdora Debora Gonzalez Castillon;dgonzalezcastillon@buenosaires.gob.ar
+DGTAD;SECLYT;Dirección General de Técnica y Administrativa;Cdor. Sebastian Aristegui;saristegui@buenosaires.gob.ar
+DGCL;SECLYT;Dirección General de Coordinación Legal;Dra. Maria Guadalupe Triviño Valdez;mvaldez@buenosaires.gob.ar
+MGEYA;SECLYT;Mesa de Entradas, Salidas y Archivo, Dirección General de;Lic. Ricardo Sarinelli;rsarinelli@buenosaires.gob.ar
+DGPLM;SCS;Dirección General de Planeamiento de Medios;Sr. Pablo Norberto Porreca;pporreca@buenosaires.gob.ar
+SECG;AJG;Secretaría General;Lic. Marcos Peña;marcospena@buenosaires.gob.ar
+AVJG;AJG;Vicejefatura de Gobierno;Lic. Maria Eugenia Vidal;mevidal@buenosaires.gob.ar
+MJGGC;AJG;Jefe de Gabinete de Ministros;Sr. Horacio Rodriguez Larreta;hlarreta@buenosaires.gob.ar
+UAIMJG;MJGGC;Unidad de Auditoría Interna;Cdor. Julio Olivastri;jolivastri@buenosaires.gob.ar
+DGTALMJG;MJGGC;Dirección General de Técnica Administrativa y Legal;Sra. Leticia Montiel;leticiamontiel@buenosaires.gob.ar
+SSPLYCG;MJGGC;Subsecretaría de Planeamiento y Control de Gestión;Lic. Franco Moccia;fmoccia@buenosaires.gob.ar
+DGEGAS;SSPLYCG;Dirección General de Evaluación del Gasto;Sr. Juan Pablo Fasanella;jpfasanella@buenosaires.gob.ar
+MJYSGC;MJGGC;Ministerio de Justicia y Seguridad;Sr. Guillermo Montenegro;gmontenegro@buenosaires.gob.ar
+UAIMJYS;MJYSGC;Unidad de Auditoría Interna;Lic. Maria Estela Moreno;memoreno@buenosaires.gob.ar
+DGTALMJYS;MJYSGC;Dirección General de Técnica Administrativa y Legal;Sra. María Eugenia Paredes;eparedes@buenosaires.gob.ar
+DGEYTI;MJYSGC;Dirección General de Estudios y Tecnologías de la información;Sr. Guillermo Arancibia;garancibia@buenosaires.gob.ar
+SSEMERG;MJYSGC;Subsecretaría de Emergencias;Sr. Nestor Nicolas;nnicolas@buenosaires.gob.ar
+DGDCIV;SSEMERG;Dirección General de Defensa Civil;Sr. Daniel Russo;drusso@buenosaires.gob.ar
+DGGAYE;SSEMERG;Dirección General de Guardia de Auxilio y Emergencia;Sr. Alejandro Juan Esteban Roldan;aroldan@buenosaires.gob.ar
+DGLO;SSEMERG;Dirección General de Logística;Sr. Gonzalo Fuertes;gfuertes@buenosaires.gob.ar
+SSJUS;MJYSGC;Subsecretaría de Justicia;Dr. Javier Bujan;jbujan@buenosaires.gob.ar
+DGELEC;SSJUS;Dirección General de Electoral;Dr. Ezio Osvaldo Emiliozzi;eemiliozzi@buenosaires.gob.ar
+DGJRYM;SSJUS;Dirección General de Justicia Registro y Mediación;Sr. Adrian De Stefano;adestefano@buenosaires.gob.ar
+DGAI;SSJUS;Dirección General de Administración de infracciones;Sr. FABIO  ALEJANDRO PIROLO;fpirolo@buenosaires.gob.ar
+MHGC;MJGGC;Ministerio de Hacienda;Sr. Nestor  Grindetti;ngrindetti@buenosaires.gob.ar
+UAIMH;MHGC;Unidad de Auditoría Interna;Cdor. Abelardo Harbin;aharbin@buenosaires.gob.ar
+OSBA;MHGC;Ob.S.B.A.;Sin Designación Oficial;
+INSJYA;MHGC;Instituto de Juego y Apuestas;Pres. Néstor Alejandro García Lira;
+DGTALMH;MHGC;Técnica, Administrativa y Legal, Dirección General de;Cdora Nereida Delgado;nereidadelgado@buenosaires.gob.ar
+MDSGC;MJGGC;Ministerio de Desarrollo Social;Sra. Carolina Stanley;cstanley@buenosaires.gob.ar
+UAIMDS;MDSGC;Unidad de Auditoría Interna;Lic. Hebe Martinez;hebemartinez@buenosaires.gob.ar
+CSOCIAL;MDSGC;Consejo Social;Sin Designación Oficial;
+SSFFYC;MDSGC;Subsecretaría de Fortalecimiento Familiar y Comunitario;Sr. Santiago Lopez Medrano;slopezmedrano@buenosaires.gob.ar
+DGCPOR;SSFFYC;Dirección General de Ciudadanía Porteña;Sr. Pablo Pucciarelli;ppucciarelli@buenosaires.gob.ar
+DGDAI;SSFFYC;Dirección General de Atención Inmediata;Lic. Samanta Acerenza;sacerenza@buenosaires.gob.ar
+SSTED;MDSGC;Subsecretaría de Tercera Edad;Sr. Claudio Romero;claudioromero@buenosaires.gob.ar
+DGPROYS;SSTED;Dirección General de Promoción y Servicios;Sr. Fernando Alberto Cid;fcid@buenosaires.gob.ar
+SSPSOC;MDSGC;Subsecretaría de Promoción Social;Sra. Paula Perez Marquina;pperezmarquina@buenosaires.gob.ar
+DGFSCIV;SSPSOC;Dirección General de Fortalecimiento de la Sociedad Civil;Sra. Lorena Rios;lorenarios@buenosaires.gob.ar
+DGMUJ;SSPSOC;Dirección General de la Mujer;Lic. Daniela Reich;dreich@buenosaires.gob.ar
+DGNYA;SSPSOC;Dirección General de Niñez y Adolescencia;Lic. Pilar Molina;pilarmolina@buenosaires.gob.ar
+MSGC;MJGGC;Ministerio de Salud;Sra. Graciela  Reybaud;greybaud@buenosaires.gob.ar
+UAIMS;MSGC;Unidad de Auditoría Interna;Cdor. Marcelo Fabian Francisco;mfrancisco@buenosaires.gob.ar
+SSAIS;MSGC;Subsecretaría de Atención Integrada de Salud;Dr. Carlos Russo;crusso@buenosaires.gob.ar
+SSASS;MSGC;Subsecretaría de Administración del Sistema de Salud;Sr. Alberto Guevara;aguevara@buenosaires.gob.ar
+DGPLYP;SSASS;Dirección General de Planeamiento y Presupuesto;Sr. Sebastian Napolitano;snapolitano@buenosaires.gob.ar
+DGADC;SSASS;Dirección General de Administrativo Contable;Cdora Emilse Carmen Filippo;efilippo@buenosaires.gob.ar
+MAYEPGC;MJGGC;Ministerio de Ambiente y Espacio Público;Lic. Edgardo Cenzon;ecenzon@buenosaires.gob.ar
+UAIMAYEP;MAYEPGC;Unidad de Auditoría Interna;Sra. Florencia Scavino;fscavino@buenosaires.gob.ar
+SSUEP;MAYEPGC;Subsecretaría de Uso del Espacio Público;Lic. Patricio Di Stefano;pdistefano@buenosaires.gob.ar
+DGFYME;SSUEP;Dirección General de Ferias y Mercados;Sr. Mariano Martin Quinones Pacheco;mquinonespacheco@buenosaires.gob.ar
+SSMEP;MAYEPGC;Subsecretaría de Mantenimiento del Espacio Público;Lic. Rodrigo Silvosa;rsilvosa@buenosaires.gob.ar
+DGEV;SSMEP;Dirección General de Espacios Verdes;Sr. Nicolas Quintana;nquintana@buenosaires.gob.ar
+DGALUM;SSMEP;Dirección General de Alumbrado;Sr. Rodolfo Pignatelli;rpignatelli@buenosaires.gob.ar
+SSHU;MAYEPGC;Subsecretaría de Higiene Urbana;Ing. Mariano Campos;mocampos@buenosaires.gob.ar
+DGLIM;SSHU;Dirección General de Limpieza;Sr. Mauro ezequiel Canoves;mcanoves@buenosaires.gob.ar
+DGINSP;SSHU;Dirección General de Inspección;Sr. Carlos Diaz Filgueira;carlosdiaz@buenosaires.gob.ar
+MEGC;MJGGC;Ministerio de Educación;Lic. Esteban Bullrich;ebullrich@buenosaires.gob.ar
+UAIME;MEGC;Unidad de Auditoría Interna;Dra. Marisa Conte;mconte@buenosaires.gob.ar
+MDEGC;MJGGC;Ministerio de Desarrollo Económico;Sr. Francisco Cabrera;franciscocabrera@buenosaires.gob.ar
+DGTALMDE;MDEGC;Dirección General de Técnica Administrativa y Legal;Dr. Juan Martin Barrailh Ortiz;jmbortiz@buenosaires.gob.ar
+DGCOMEXT;MDEGC;Dirección General de Comercio Exterior;Lic. Marcos Amadeo;mamadeo@buenosaires.gob.ar
+SSINV;MDEGC;Subsecretaría de Inversiones;Lic. Carlos Pirovano;cpirovano@buenosaires.gob.ar
+DGGI;SSINV;Dirección General de Gestión de Inversiones;Lic. Silvia Alves;salves@buenosaires.gob.ar
+DGPINV;SSINV;Dirección General de Promoción de Inversiones;Lic. Damian Specter;dspecter@buenosaires.gob.ar
+MCGC;MJGGC;Ministerio de Cultura;Sr. Hernan Lombardi;hlombardi@buenosaires.gob.ar
+UAIMC;MCGC;Unidad de Auditoría Interna;Dr. Victor Palacios;vpalacios@buenosaires.gob.ar
+DGTALMC;MCGC;Técnica, Administrativa y Legal, Dirección General de;Dr. Alejandro Capato;acapato@buenosaires.gob.ar
+MDUGC;MJGGC;Ministerio de Desarrollo Urbano;Arq. Daniel Chain;dchain@buenosaires.gob.ar
+UAIMDU;MDUGC;Unidad de Auditoría Interna;Sr. Carlos Arroyo;carlosarroyo@buenosaires.gob.ar
+DGTALMDU;MDUGC;Dirección General de Técnica Administrativa y Legal;Cdor. Fernando Codino;fcodino@buenosaires.gob.ar
+DGCIYC;MDUGC;Dirección General de Coordinación Institucional y Comunitaria;Sr. Hernan Vela;hvela@buenosaires.gob.ar
+SSPUAI;MDUGC;Proyectos de Urbanismo, Arquitectura e Infraestructura, Subsecretaría de;Sr. Jorge Sabato;jsabato@buenosaires.gob.ar
+DGPUYA;SSPUAI;Dirección General de Proyectos Urbanos y Arquitectura;Arq. Juan Carlos Murad;jmurad@buenosaires.gob.ar
+DGINFU;SSPUAI;Dirección General de Infraestructura;Ing. Mario Jorge Nadali;mnadali@buenosaires.gob.ar
+AGCBA;GCBA;Auditoría General de la CABA;Sin Designación Oficial;
+DDP;GCBA;Defensoría del Pueblo;Sin Designación Oficial;
+ERSP;GCBA;Ente Único Regulador de los Servicios Públicos de la CABA;Sr. Lisandro Ferrali;
+DGECS;SSFFYC;Dirección General de Economía Social;Sr. Ignacio Girado;igirado@buenosaires.gob.ar
+DGPSA;SSPSOC;Dirección General de Políticas Sociales en Adicciones;Sra. Ana Volpato;avolpato@buenosaires.gob.ar
+AGC;MJYSGC;Agencia Gubernamental de Control;Sr. Juan Jose Gomez Centurion;jjgomezcenturion@buenosaires.gob.ar
+DGHP;AGC;Dirección General de Habilitaciones y Permisos;Dr. Manuel Sandberg Haedo;msandberghaedo@buenosaires.gob.ar
+DGFYC;AGC;Dirección General de Fiscalización y Control;Sr. Pierre Chapar;pchapar@buenosaires.gob.ar
+DGFYCO;AGC;Dirección General de Fiscalización  y Control de Obras;Ing. Osvaldo Alonso;osvaldoalonso@buenosaires.gob.ar
+DGHYSA;AGC;Dirección General de Higiene y Seguridad Alimentaria;Sr. Ignacio Parera;iparera@buenosaires.gob.ar
+APRA;MAYEPGC;Agencia de Protección Ambiental;Sr. Villalonga Juan Carlos;villalongajuancarlos@buenosaires.gob.ar
+AGIP;MHGC;Administración Gubernamental de Ingresos Públicos;Lic. Carlos Gustavo Walter;carloswalter@buenosaires.gob.ar
+DGET;APRA;Dirección General de Evaluación Técnica;Arq. Edgardo Nardi;enardi@buenosaires.gob.ar
+DGCONT;APRA;Dirección General de Control;Sr. Marcelo Naveiro;mnaveiro@buenosaires.gob.ar
+DGTALAPRA;APRA;Técnica, Administrativa y Legal, Dirección General de;Lic. Luciano Casiraghi;lcasiraghi@buenosaires.gob.ar
+UAIAGC;AGC;Unidad de Auditoría Interna;Cdora Leonora Carnazzoli;lcarnazzoli@buenosaires.gob.ar
+UAYCG;AGC;Unidad de Administración y Control de Gestión;Sin Designación Oficial;
+DGLYTAGC;UAYCG;Dirección General de Legal y Técnica;Dr. Roberto Enrique Padilla;rpadilla@buenosaires.gob.ar
+UAIAPRA;APRA;Unidad de Auditoría Interna;Lic. Sandra Ibendahl;ibendahls@buenosaires.gob.ar
+DGESYC;AGIP;Dirección General de Estadística y Censo;Lic. Jose Maria Donati;jmdonati@buenosaires.gob.ar
+DGR;AGIP;Dirección General de Rentas;Lic. Carlos Gustavo Walter;carloswalter@buenosaires.gob.ar
+DGA;DGR;Dirección General Adjunta de Rentas;Sin Designación Oficial;
+DGRINSTI;AGIP;Dirección General de Relaciones Institucionales;Sin Designación Oficial;
+DGANFA;AGIP;Dirección General de Análisis  Fiscal;Dr. Ricardo Luszynski;rluszynski@buenosaires.gob.ar
+SSDEP;MDEGC;Subsecretaría de Deportes;Sr. Francisco Irarrazaval;firarrazaval@buenosaires.gob.ar
+DGDSYDD;SSDEP;Dirección General de Deporte Social y Desarrollo Deportivo;Sr. Carlos Ramiro Gimenez;crgimenez@buenosaires.gob.ar
+UAIMDE;MDEGC;Unidad de Auditoría Interna;Cdor. Javier Demarchi;jdemarchi@buenosaires.gob.ar
+EMUI;SSMEP;Ente de Mantenimiento Urbano Integral Ley 473;Sr. Joaquin Gandara;joaquingandara@buenosaires.gob.ar
+SGCBA;GCBA;Sindicatura General de la Ciudad de Buenos Aires;Dr. Ignacio Martín  Rial;irial@buenosaires.gob.ar
+PG;GCBA;Secretaría Procuración General de la Ciudad;Dr. Julio Marcelo Conte Grand;jcontegrand@buenosaires.gob.ar
+UAIPG;PG;Unidad de Auditoría Interna;Dra. Ana Hernandez;ahernandez@buenosaires.gob.ar
+DGTALPG;PG;Dirección General de Técnica Administrativa y Legal;Cdora Carina Noemi Rodriguez;carinarodriguez@buenosaires.gob.ar
+PGAAPYF;PG;Procuración General Adjunta de Asuntos Patrimoniales y Fiscales;Dra. Alicia Norma Arbol;anarbol@buenosaires.gob.ar
+PGAAIYEP;PG;Procuración General adjunta de Asuntos Institucionales y Empleo Público;Dr. Fabian Zampone;fzampone@buenosaires.gob.ar
+DGAINST;PGAAIYEP;Dirección General de Asuntos Institucionales;Dr. Carlos Ignacio Salvadores de Arzuaga;csalvadoresdearzuaga@buenosaires.gob.ar
+JEFGAB-APRA;APRA;Gabinete;Sr. Adrian Hugo Gonzalez;ahgonzalez@buenosaires.gob.ar
+BCOCIUDAD;MHGC;Banco Ciudad de Buenos Aires;Sin Designación Oficial;
+USIYP;AGC;Sistemas Infórmaticos y Procesos;Sr. juan carlos molina alfaro;jcmolinaalfaro@buenosaires.gob.ar
+UGIYCO;AGC;Gestión de la Información y Control Operativo;Sin Designación Oficial;
+EHU;SSHU;Ente de Higiene Urbana (Ley 462);Sr. Martin Kreintzies;mkreintzies@buenosaires.gob.ar
+PCIUDAD;MDEGC;Parque de la Ciudad;Sra. Claudia Strapko;cstrapko@buenosaires.gob.ar
+CBAS;MDEGC;Corporación Buenos Aires Sur S.E. (Ley 470);Sr. Humberto Schiavoni;hschiavoni@buenosaires.gob.ar
+SAP;MDEGC;Sociedad Administradora del Puerto;Sin Designación Oficial;
+CPUAM;MDUGC;Consejo del Plan Urbano Ambiental;Sin Designación Oficial;
+CAPM;MDUGC;Corporación Antiguo Puerto Madero;Sr. Eugenio Bread;
+AUSA;MDUGC;A.U.S.A.; Darío Sarquis;
+UEEXAU3;MDUGC;Unidad Ejecutora Ex - Au3;Lic. Diego Sadowski;dsadowski@buenosaires.gob.ar
+DGEGRAL;SECLYT;Dirección General de Escribania General;Esc. Mauricio Devoto;mdevoto@buenosaires.gob.ar
+DGESAME;SSAIS;Dirección General de Sistema de Atención Médica de Emergencia (S.A.M.E.);Dr. Alberto Crescenti;acrescenti@buenosaires.gob.ar
+DGRS1;SSAIS;Dirección General de Región Sanitaria I;Sr. Oscar Perez;oscarperez@buenosaires.gob.ar
+HGACA;DGRS1;Hospital General de Agudos "Dr. Cosme Argerich";Dr. Nestor Hernandez;nhernandez@buenosaires.gob.ar
+HGAP;DGRS1;Hospital General de Agudos "José María Penna";Dr. Gustavo Alberto San Martin;gsanmartin@buenosaires.gob.ar
+HGARM;DGRS1;Hospital General de Agudos "José M. Ramos Mejía";Dr. Eduardo Roberto Seoane;eseoane@buenosaires.gob.ar
+HGNPE;DGRS1;Hospital General de Niños  "Pedro de Elizalde";Dr. Norberto Garrote;ngarrote@buenosaires.gob.ar
+HNJG;DGRS1;Hospital General de Pedriatía "Juan P. Garraham";Sin Designación Oficial;
+HRRMF;DGRS1;Hospital de Rehabilitación Respiratoria "María Ferrer"; Eduardo A. Schiavi;mariaferrer_direccion@buenosaires.gov.ar
+HOI;DGRS1;Hospital de Odontología Infantil "B. Quinquela Martín";Dra. Renee Di Nallo ;rdinallo@buenosaires.gob.ar
+HIFJM;DGRS1;Hospital de Enfermedades Infecciosas "Francisco J. Muñiz";Dr. Ruben Daniel Masini;rmasini@buenosaires.gob.ar
+HMIRS;DGRS1;Hospital Materno Infantil "Ramón Sardá";Dra. Elsa Andina;sarda_eandina@buenosaires.gob.ar
+HBU;DGRS1;Hospital de Gastroenterología "Dr.Carlos B. Udaondo";Dr. Eduardo Sosa;esosa@buenosaires.gob.ar
+HSL;DGRS1;Hospital Oftalmológico "Santa Lucía";Dra. Estela Rey;efrey@buenosaires.gob.ar
+DGRS2;SSAIS;Dirección General de Región Sanitaria II;Dra. Liliana Monastra Varrica;lmonastra@buenosaires.gob.ar
+HGATA;DGRS2;Hospital General de Agudos "Dr. Teodoro Alvarez";Dra. Laura Cordero;lcordero@buenosaires.gob.ar
+HGAPP;DGRS2;Hospital General de Agudos "Parmenio T. Piñero";Dr. Damian Pagano;damian.pagano@buenosaires.gob.ar
+HGADS;DGRS2;Hospital General de Agudos "F. Santojanni";Dr. Sergio Auger;sauger@buenosaires.gob.ar
+DGRS3;SSAIS;Dirección General de Región Sanitaria III;Dr. Alejandro Ramos;alejandro.ramos@buenosaires.gob.ar
+HGACD;DGRS3;Hospital General de Agudos "Dr. Carlos G. Durand";Dr. Carlos Dario Rosales;durand_crosales@buenosaires.gob.ar
+HGAT;DGRS3;Hospital General de Agudos "Enrique Tornú";Dr. Luis Eduardo Castañiza;lcastaniza@buenosaires.gob.ar
+HGAVS;DGRS3;Hospital General de Agudos "Dalmacio Velez Sarsfield";Dr. Rodolfo Blancat;rblancat@buenosaires.gob.ar
+HGAZ;DGRS3;Hospital General de Agudos "Dr. Abel Zubizarreta";Dra. Lilia Borelli;lborelli@buenosaires.gob.ar
+HMOMC;DGRS3;Hospital de Oncología "Marie Curie";Dr. Guillermo Jose Temperley;gtemperley@buenosaires.gob.ar
+HMO;DGRS3;Hospital de Odontología "Dr. José Dueñas";Dr. Daniel Alfredo Basovich;dbasovich@buenosaires.gob.ar
+HOPL;DGRS3;Hospital Oftalmológico "Dr. Pedro Lagleyze";Dr. Fernando Jorge Scattini;fscattini@buenosaires.gob.ar
+HRR;DGRS3;Hospital de Rehabilitación "Manuel Rocca";Dr. Jose Addimanda;jaddimanda@buenosaires.gob.ar
+HQ;DGRS3;Hospital de Quemados;Dr. Armando Escobar;aescobar@buenosaires.gob.ar
+IZLP;DGRS3;Instituto de Zoonosis "Luis Pasteur";Dr. Oscar Lencinas;olencinas@buenosaires.gob.ar
+DGRS4;SSAIS;Dirección General de Región Sanitaria IV;Dr. Ricardo Viotti;rviotti@buenosaires.gob.ar
+HGAJAF;DGRS4;Hospital General de Agudos "Dr. Juan A. Fernandez";Dra. Maria Angelica Martin;fernandez_mamartin@buenosaires.gob.ar
+HGAIP;DGRS4;Hospital General de Agudos "Dr. Ignacio  Pirovano";Dr. Jose Antonio Cuba;jacuba@buenosaires.gob.ar
+HBR;DGRS4;Hospital "Bernardino Rivadavia";Dr. Eduardo Fernandez Rostello;efernandezrostello@buenosaires.gob.ar
+HGNRG;DGRS4;Hospital General de Niños  "Dr. Ricardo Gutierrez";Dra. Cristina Galoppo;cgaloppo@buenosaires.gob.ar
+HO;DGRS4;Hospital de Odontología "Ramón Carrillo";Dra. Alicia Albornoz;aalbornoz@buenosaires.gob.ar
+IRPS;DGRS4;Instituto de Rehabilitación Psicofísica;Dra. Silvina Ajolfi;sajolfi@buenosaires.gob.ar
+DGRYPS;SSAIS;Dirección General de De Redes y Programas de Salud;Dra. Florencia Flax Marco;fflaxmarco@buenosaires.gob.ar
+DGAYDRH;SSASS;Dirección General de Administración y Desarrollo de Recursos Humanos;Sra. Rosana Reggi;rreggi@buenosaires.gob.ar
+DGRFISS;SSASS;Dirección General de Recursos Físicos en Salud;Ing. Luis Demirjian;ldemirjian@buenosaires.gob.ar
+DGOEP;SSUEP;Dirección General de Ordenamiento del Espacio Público;Dr. Mauro Alabuenas;mauroalabuenas@buenosaires.gob.ar
+DGCEM;SSMEP;Dirección General de Cementerios;Sr. Eduardo Rafael SOMOZA;ersomoza@buenosaires.gob.ar
+DGRECO;PGAAPYF;Dirección General de Relaciones Contractuales;Dr. Daniel Leffler;dleffler@buenosaires.gob.ar
+DGATYRF;PGAAPYF;Dirección General de Asuntos Tributarios y Recursos Fiscales;Dra. Maria Cuello;mcuello@buenosaires.gob.ar
+DGAPA;PGAAPYF;Dirección General de Asuntos Patrimoniales;Dra. Griselda Garcia Ortiz;ggortiz@buenosaires.gob.ar
+DGEMPP;PGAAIYEP;Dirección General de Empleo Público;Dr. Jorge De La Cruz;jdelacruz@buenosaires.gob.ar
+DGSUM;PGAAIYEP;Dirección General de Sumarios;Dr. Ricardo Ruggiero;rruggiero@buenosaires.gob.ar
+CPEST;AJG;Consejo de Planeamiento Estratégico;Ing. Norberto Walter Pazos;npazos@buenosaires.gob.ar
+SECM;AJG;Secretaría de Medios;Sr. Miguel De Godoy;mdegodoy@buenosaires.gob.ar
+CEAMSE;MAYEPGC;C.E.A.M.S.E.;Ing. Jose luis Novick;jnovick@buenosaires.gob.ar
+DGPLE;SSPLYCG;Dirección General de Planificación Estratégica;Lic. Marcelo Busellini;mbusellini@buenosaires.gob.ar
+RPCYCPJ;MJYSGC;Organ. del Reg. Pub. de Com. y Cont. de Pers. Jurid.de la C.A.B.A.;Sin Designación Oficial;
+AEP;MJYSGC;Auditoría Externa Policial;Dr. Pablo Gonzalo Pinamonti;ppinamonti@buenosaires.gob.ar
+ISSP;MJYSGC;Instituto Superior de Seguridad Pública;Dra. Marcela Vivian De Langhe;mdelanghe@buenosaires.gob.ar
+SSAPM;MJYSGC;Subsecretaría de Administración de la Policía Metropolitana;Sr. Ignacio Gustavo Greco;iggreco@buenosaires.gob.ar
+DGALPM;SSAPM;Dirección General de Administrativa y Legal de la Policía Metropolitana;Sra. Mariana Ostiglia;mostiglia@buenosaires.gob.ar
+DGARHPM;SSAPM;Dirección General de Administración de Recursos Humanos de la Policía Metropolitana;Sra. Claudia Lorena Santos;clsantos@buenosaires.gob.ar
+DGSPM;SSAPM;Dirección General de Suministros a la Policía Metropolitana;Sra. Genoveva Ferrero;gferrero@buenosaires.gob.ar
+DGIPM;SSAPM;Dirección general de Infraestructura de la Policía Metropolitana;Sr. Juan Manuel Manfroni;jmanfroni@buenosaires.gob.ar
+CSCG;DGRS2;Hospital de Lugano Centro de Salud Integral " Dra. Cecicilia Grierson";Dra. Sonia Miriam Papotto;spapotto@buenosaires.gob.ar
+OSPM;MJYSGC;Obra Social de la Policía Metropolitana;Sr. Guillermo Montenegro;gmontenegro@buenosaires.gob.ar
+CSSSP;MJYSGC;Comité de Seguimiento del Sistema de Seguridad Pública;Sin Designación Oficial;
+DGSAM;SSAIS;Dirección General de Salud Mental;Dra. Maria Concepcion Grosso;mgrosso@buenosaires.gob.ar
+HIJCTG;DGSAM;Hospital Infanto Juvenil "Dra. Carolina Tobar García";Dr. Guillermo Fabian Vega;gfvega@buenosaires.gob.ar
+HEPTA;DGSAM;Hospital de Emergencias Psiquiátricas "Torcuato de Alvear";Dr. Ronald Gustavo Falcon;rfalcon@buenosaires.gob.ar
+HNJTB;DGSAM;Hospital "Dr. José T. Borda";Dr. Juan Alberto Garralda;jgarralda@buenosaires.gob.ar
+HNBM;DGSAM;Hospital "Dr. Braulio A. Moyano";Dr. Alberto Monchablon;amonchablon@buenosaires.gob.ar
+CSMA;DGSAM;Centro de Salud Mental Nº 3 "Arturo Ameghino";Dra. Celina Rene Fabrykant;cfabrykant@buenosaires.gob.ar
+TPRPS;DGSAM;Talleres Protegidos de Rehabilitación Psiquiátrica;Dra. Graciela Maria Ana Russo;tprps_gruso@buenosaires.gob.ar
+DGSISIN;SSASS;Dirección General de Sistemas Informáticos;Sr. Carlos Francisco Ilc;cilc@buenosaires.gob.ar
+SSPLSAN;MSGC;Subsecretaría de Planificación Sanitaria;Dr. Nestor  Perez Baliño;nperezbalino@buenosaires.gob.ar
+DGDYPS;SSPLSAN;Dirección General de Desarrollo y Planeamiento Sanitario;Dr. Andres Roberto Scarsi;ascarsi@buenosaires.gob.ar
+DGDOIN;SSPLSAN;Dirección General de Docencia e Investigación;Dra. Kumico Eiguchi;keiguchi@buenosaires.gob.ar
+DGCYRI;MEGC;Dirección General de Comunicaciones y Relaciones Institucionales;Sr. Hugo Martini;hugomartini@buenosaires.gob.ar
+CPE;AJG;Unidad de Coordinación del Plan Estratégico;Sra. Silvana Giudici;sgiudici@buenosaires.gob.ar
+DGOARQ;SSPUAI;Dirección General de Obras de Arquitectura;Arq. Claudio Cane;ccane@buenosaires.gob.ar
+DGOING;SSPUAI;Dirección General de Obras de Ingeniería;Sin Designación Oficial;
+CDNNYA;AJG;Niñas y Adolecentes (Ley 114) Consejo de Los Derechos de Niños;Sra. Guadalupe  Tagliaferri;gtagliaferri@buenosaires.gob.ar
+DGPEA;SSTED;Dirección General de Promoción del Envejecimiento Activo;Sin Designación Oficial;
+DGLTACDN;CDNNYA;Legal Técnica y Administrativa;Sr. Hug Daniel Aragno;haragno@buenosaires.gob.ar
+DGGPP;CDNNYA;Gestión de Políticas y Programas;Sin Designación Oficial;
+DGEAMB;APRA;Dirección General de Estrategias Ambientales;Sra. Flavia Broffoni;fbroffoni@buenosaires.gob.ar
+DGREC;SSHU;Dirección General de Reciclado;Sr. Agustin Casal;acasal@buenosaires.gob.ar
+EAIT;MSGC;Instituto del Transplante;Sin Designación Oficial;
+DGCYGV;MAYEPGC;Dirección General de Comunicación;Sr. Gonzalo Matias Girolami;ggirolami@buenosaires.gob.ar
+CPYSED;MJYSGC;Comité de Prevención y Seguridad para Eventos Deportivos;Sr. Ignacio Palazuelos;ipalazuelos@buenosaires.gob.ar
+RVA;MJYSGC;Registro de Verificación de Autopartes;Dr. Gustavo Montenegro;gustavomontenegro@buenosaires.gob.ar
+SSGEFYAR;MEGC;Subsecretaría de Gestión Económica Financiera y Administración de Recursos;Sr. Carlos Javier Regazzoni;cregazzoni@buenosaires.gob.ar
+DGSE;SSGEFYAR;Dirección General de Servicios a las Escuelas;Dr. Lucas Ciriaco Incicco;lcincicco@buenosaires.gob.ar
+DGPYCG;SSGEFYAR;Dirección General de Planeamiento y Control de Gestión;Sra. Maria Molina Iturrioz;mmolinaiturrioz@buenosaires.gob.ar
+DGIES;SSGEFYAR;Dirección General de Infraestructura Escolar;Sr. Fernando Andres Dominguez;fdominguez@buenosaires.gob.ar
+DGAR;SSGEFYAR;Dirección General de Administración de Recursos;Dr. Gonzalo Riobo;griobo@buenosaires.gob.ar
+DGAMANT;SSGEFYAR;Dirección General de Administración de Mantenimiento;Sin Designación Oficial;
+DGCLEI;MEGC;Dirección General de Coordinación Legal e Institucional;Sr. Diego Marias;dmarias@buenosaires.gob.ar
+MGOBGC;MJGGC;Ministerio de Gobierno;Sr. Emilio Monzo;emonzo@buenosaires.gob.ar
+MMGC;MJGGC;Ministerio de Modernización;Sr. Andres Ibarra;aibarra@buenosaires.gob.ar
+SECDC;AVJG;Secretaría Desarrollo Ciudadano;Sin Designación Oficial;
+DGDS;SECDC;Dirección General de Desarrollo Saludable;Lic. Hector Gatto;hgatto@buenosaires.gob.ar
+DGPJ;SECDC;Dirección General de Políticas de Juventud;Sra. Luciana Blasco;lblasco@buenosaires.gob.ar
+UAIMOD;MMGC;Unidad de Auditoría Interna;Cdora Mariela Garcia;mgarcia@buenosaires.gob.ar
+ISC;MMGC;Instituto Superior de la Carrera;Sra. Karina Chierzi;kchierzi@buenosaires.gob.ar
+DGPCG;MMGC;Dirección General de Planeamiento y Control de Gestión;Sr. Enrique  Chierasco;echierasco@buenosaires.gob.ar
+SSGRH;MMGC;Subsecretaría de Gestión de Recursos Humanos;Ing. Pablo  Legorburu;plegorburu@buenosaires.gob.ar
+DGALH;SSGRH;Dirección General de Administración y Liquidación de Haberes;Sr. Ricardo Spartano;rspartano@buenosaires.gob.ar
+DGALP;SSGRH;Dirección General de Asuntos Laborales y Previsionales;Sr. Cesar Carlos Neira;ccneira@buenosaires.gob.ar
+DGAMT;SSGRH;Dirección General de Administración de Medicina del Trabajo;Cdor. Gustavo Andres Muzlera;gmuzlera@buenosaires.gob.ar
+SSGPM;MMGC;Subsecretaría de Gestión de Proyectos de Modernización;Lic. Eduardo Martelli;emartelli@buenosaires.gob.ar
+DGMAD;SSGPM;Dirección General de Modernización Administrativa;Sra. Maria Jose Martelo;mmartelo@buenosaires.gob.ar
+ASINF;MMGC;Agencia de Sistemas de Información;Sr. Raul Martinez;raul.martinez@buenosaires.gob.ar
+UAIASINF;ASINF;Unidad de Auditoría Interna;Cdor. Diego Estevez;destevez@buenosaires.gob.ar
+DGISIS;ASINF;Dirección General de Integración de Sistemas;Lic. Ana Maria Ortino;ortinoa@buenosaires.gob.ar
+DGIASINF;ASINF;Direccion General de Infraestructura;Lic. Gustavo Hugo Goenaga;ggoenaga@buenosaires.gob.ar
+DGTALINF;ASINF;Dirección General de Técnica Admnistrativa y Legal;Lic. Carlos Dacharry;cdacharry@buenosaires.gob.ar
+UAIGOB;MGOBGC;Unidad de Auditoría Interna;Cdora Monica Ramon;mramon@buenosaires.gob.ar
+DGTALGOB;MGOBGC;Dirección General deTécnica Administrativa y Legal;Lic. Paola Cecilia Villanueva;pvillanueva@buenosaires.gob.ar
+SSGOBIER;MGOBGC; Subsecretaría de Gobierno;Lic. Silvia Lospennato;slospennato@buenosaires.gob.ar
+SSAPOL;MGOBGC;Subsecretaría de Asuntos Políticos;Sr. Bruno Screnci;bscrenci@buenosaires.gob.ar
+DGAINT;SSAPOL;Dirección General de Asuntos Interjurisdiccionales;Dr. Manuel Sandberg Haedo;msandberghaedo@buenosaires.gob.ar
+SSAFED;MGOBGC;Subsecretaría de Asuntos Federales;Sr. Marcelo Daletto;mdaletto@buenosaires.gob.ar
+DGRPM;SSAFED;Dirección General de Relación con las Provincias y Municipios;Sr. Manuel Mosca;mmosca@buenosaires.gob.ar
+SSRII;SECG;Subsecretaría de Relaciones Internacionales e Institucionales;Lic. Fulvio Pompeo;fpompeo@buenosaires.gob.ar
+DGPRYCE;SSRII;Dirección General de Protocolo y Ceremonial;Sr. Hernan Bielus;hbielus@buenosaires.gob.ar
+DGCUL;SSRII;Dirección General de Cultos;Dr. Alfredo Abriani;aabriani@buenosaires.gob.ar
+DGRIC;SSRII;Dirección General de Relaciones Internacionales y Cooperación;Lic. Tomas Kroyer;tomaskroyer@buenosaires.gob.ar
+SSCON;SECG;Subsecretaría de Contenidos;Lic. Federico Suarez;federicosuarez@buenosaires.gob.ar
+UPEOPCD;SSCON;Unidad de Proyectos Especiales Opinión Pública y Comunicación Directa;Lic. Jozami Mora;jmora@buenosaires.gob.ar
+DGPLACO;SSCON;Direccion General de Planificación Comunicacional;Sra. Maria Laura Fragueiro;mfragueiro@buenosaires.gob.ar
+DGCON;SSCON;Dirección General de Contenidos;Lic. Fanny Peña;fpena@buenosaires.gob.ar
+DGCCON;SECLYT;Dirección General de Coordinación y Consolidación Normativa;Dr. Sergio Iacovino;siacovino@buenosaires.gob.ar
+DGACOM;PGAAIYEP;Dirección General de Asuntos Comunales;Dra. Paola Santarcangelo;psantarcangelo@buenosaires.gob.ar
+SSMYP;SECM;Subsecretaría de Medios y Prensa;Sr. Marcelo Jorge  Nachon;mnachon@buenosaires.gob.ar
+SECGCYAC;AJG;Secretaría de Gestión Comunal y Atención Ciudadana;Sr. Eduardo Alberto Macchiavelli;eduardom@buenosaires.gob.ar
+UAIGCYAC;SECGCYAC;Unidad de Auditoría Interna;Dr. Joaquin Pinotti;jpinotti@buenosaires.gob.ar
+DGTALCIU;SECGCYAC;Dirección General de Técnica Administrativa y Legal;Dr. Mariano Andres Bousquet;abousquet@buenosaires.gob.ar
+SSATCIU;SECGCYAC;Subsecretaría de Atención Ciudadana;Sr. Juan Pablo Limodio;jlimodio@buenosaires.gob.ar
+DGATVEC;SSATCIU;Dirección General de Atención Vecinal;Ing. Marcelo Fagalde;mfagalde@buenosaires.gob.ar
+DGGC;SSATCIU;Dirección General de Gestión de Calidad;Arq. Maela Santarcangelo;msantarcangelo@buenosaires.gob.ar
+DGDYPC;SSATCIU;Dirección General de Defensa y Protección al Consumidor;Sr. EDGARDO AOUN;eaoun@buenosaires.gob.ar
+SSEPUC;SECGCYAC;Subsecretaría de Espacio Público Comunal;Lic. Eduardo Villar;eduardovillar@buenosaires.gob.ar
+DGOC;SSEPUC;Dirección General de Obras Comunales;Arq. Guillermo Raffo;guillermoraffo@buenosaires.gob.ar
+SSADMI;MDSGC;Subsecretaría de Administración;Lic. Magdalena Aguerre;maguerre@buenosaires.gob.ar
+DGINFS;SSADMI;Dirección General de Infraestructura Social;Sr. Pablo Mazzino;pmazzino@buenosaires.gob.ar
+DGTALMDS;SSADMI;Dirección General deTécnica Administrativa y Legal;Sr. Carlos Alberto Rebagliati;crebagliati@buenosaires.gob.ar
+SSGCULT;MCGC;Subsecretaría de Gestión Cultural;Sr. Alejandro Damian Gomez;alejandrogomez@buenosaires.gob.ar
+DGPCUL;SSGCULT;Dirección General de Promoción Cultural;Sr. Guillermo Gonzalez Heredia;gheredia@buenosaires.gob.ar
+DGMUS;SSGCULT;Dirección General de Música;Sr. Juan Carlos Coacci;juancarloscoacci@buenosaires.gob.ar
+DGRELIC;SSGCULT;Dirección General de Relaciones Institucionales y con la Comunidad;Sr. Emilio Lafferriere;elafferriere@buenosaires.gob.ar
+DGAB;SSINV;Dirección General de Administración de Bienes;Sr. Pedro Comin Villanueva;pedrovillanueva@buenosaires.gob.ar
+SECHI;MDEGC;Secretaría de Habitat e Inclusión;Lic. Marina Klemensiewicz;marinak@buenosaires.gob.ar
+UGIS;SECHI;Unidad de Gestión de Intervención Social;Sr. Carlos Pedrini;cpedrini@buenosaires.gob.ar
+IVC;SECHI;Instituto de Vivienda de la Ciudad;Sr. Emilio  Basavilbaso;ebasavilbaso@buenosaires.gob.ar
+COPIDIS;SECHI;Copidis;Lic. Matias Alonso Ron;malonsoron@buenosaires.gob.ar
+SSDI;SECHI;Subsecretaría de Desarrollo Inclusivo;Lic. Raul Enrique Gallo;rgallo@buenosaires.gob.ar
+DGHABITAT;SSDI;Dirección General de Habitat;Arq. Claudia Licia Rojas;clrojas@buenosaires.gob.ar
+DGISOC;SSDI;Dirección General de Inclusión Social;Dra. Raquel Munt;rmunt@buenosaires.gob.ar
+DGPADM;SSGO;Dirección  General de Procesos Administrativos;Sin Designación Oficial;
+SSPECD;MEGC;Subsecretaría de Políticas Educativas y Carrera Docente;Sr. Alejandro Finocchiaro;alejandrofinocchiaro@buenosaires.gob.ar
+DGPDYND;SSPECD;Dirección General de Personal Docente y no Docente;Cdor Javier Mezzamico;jmezzamico@buenosaires.gob.ar
+DGCDO;SSPECD;Dirección General de Carrera Docente;Sr. Manuel ROdrigo Vidal;mrvidal@buenosaires.gob.ar
+UPECCYCC;MJGGC;Unidad de Proyectos Especiales Construcción Ciudadana y Cambio Cultural;Lic. Paula Uhalde;puhalde@buenosaires.gob.ar
+DGTEDU;MEGC;Dirección General de Tecnología Educativa;Sr. Jorge Aguado;jaguado@buenosaires.gob.ar
+SECPLAN;MDUGC;Secretaría de Planeamiento;Arq. Hector Lostri;hectorlostri@buenosaires.gob.ar
+DGIUR;SECPLAN;Dirección General de Interpretación Urbanística;Arq. Antonio Ledesma;antonioledesma@buenosaires.gob.ar
+DGPLAN;SECPLAN;Dirección General de Planeamiento;Lic. Fernando Alvarez De Celis;falvarezdecelis@buenosaires.gob.ar
+DGROC;SECPLAN;Dirección General de Registro de Obras y Catastro;Arq. Guillermo Fahler;gfahler@buenosaires.gob.ar
+SSCYSG;MDUGC;Subsecretaría Coordinación y Seguimiento de Gestión;Sr. Luis Jahn;ljahn@buenosaires.gob.ar
+DGSGEST;SSCYSG;Dirección General de Seguimiento de Gestión;Sr. Alejandro Gonzalez Calderon;agonzalezcalderon@buenosaires.gob.ar
+SSDHPC;MJGGC;Subsecretaría de Derechos Humanos y Pluralismo Cultural;Lic. Claudio Avruj;claudioavruj@buenosaires.gob.ar
+DGCDIV;SSDHPC;Dirección General de Convivencia en la Diversidad;Lic. Marisa Silvia Nasimoff;
+DGAYAV;SSDHPC;Dirección General de Atención y Asistencia a la Víctima;Sr. Leonardo Szuchet;lszuchet@buenosaires.gob.ar
+DGCOL;SSDHPC;Dirección General de Colectividades;Sr. Julio Croci;jcroci@buenosaires.gob.ar
+CGPMMVTE;SSDHPC;Consejo de Gest. del Parque de la Memoria y del Monumento a las Víctimas del Terrorismo de Estado;Lic. Nora Etel Hochbaum;nhochbaum@buenosaires.gob.ar
+SSTRANS;MJGGC;Subsecretaría de Transporte;Lic. Guillermo Dietrich;gdietrich@buenosaires.gob.ar
+DGTRANSP;SSTRANS;Dirección General de Transporte;Sin Designación Oficial;
+DGLIC;SSTRANS;Dirección General de Licencias;Sr. Mariano Casabella;marianocasabella@buenosaires.gob.ar
+DGSV;SSTRANS;Dirección General de Seguridad Vial;Sin Designación Oficial;
+DGCACTYT;SSTRANS;Dirección General de Cuerpos de Agentes de Control del Transito y el Transporte;Sr. Carlos Alberto Perez;caperez@buenosaires.gob.ar
+DGMS;SSTRANS;Dirección General de Movilidad Saludable;Lic. Paula Bisiau;paulabisiau@buenosaires.gob.ar
+UPETMBR;SSTRANS;Unidad de Proyectos Especiales Transporte Masivo Buses Rápidos;Lic. Manuela Lopez Menendez;mlmenendez@buenosaires.gob.ar
+DGCONTG;SSPLYCG;Dirección General de Control de Gestión;Sr. Pablo  Di Liscia;pdiliscia@buenosaires.gob.ar
+DGIUEP;SSUEP;Dirección General de Inspección del Uso del Espacio Público;Lic. Alex Campbell;alexcampbell@buenosaires.gob.ar
+SSPCULT;MCGC;Subsecretaría de Patrimonio Cultural;Sra. Maria Victoria Alcaraz;mvalcaraz@buenosaires.gob.ar
+CCR;SSPCULT;Centro Cultural Recoleta;Sr. Claudio Massetti;cmassetti@buenosaires.gob.ar
+UPEBACML;SSPCULT;UPE Bs. As. Capital Mundial del Libro 2011/2012;Sin Designación Oficial;
+CTBA;SSPCULT;Complejo Teatral de la Ciudad de Buenos Aires;Sr. Alberto Atilio Ligaluppi;albertoligaluppi@buenosaires.gob.ar
+ENTUR;SSPCULT;Ente de Turismo;Sr. Fernando De Andreis;fdeandreis@buenosaires.gob.ar
+EATC;SSPCULT;Ente Autártico Teatro Colón;Sr. Dario Loperfido;dloperfido@buenosaires.gob.ar
+UPEEC;SSPCULT;UPE de Espacios Culturales;Sr. Juan Manuel Beati;jbeati@buenosaires.gob.ar
+CCGSM;SSPCULT;Centro Cultural General San Martín;Sra. Gabriela Ricardes;gricardes@buenosaires.gob.ar
+DGFYEC;SSPCULT;Festivales y Eventos Centrales;Sra. Viviana Cantoni;vcantoni@buenosaires.gob.ar
+DGM;SSPCULT;Dirección General de Museos;Sr. Pedro Aparicio;paparicio@buenosaires.gob.ar
+DGCH;SSPCULT;Dirección General de Casco Histórico;Arq. Luis Grossman;lgrossman@buenosaires.gob.ar
+DGPEIH;SSPCULT;Dirección General de Patrimonio e Instituto Histórico;Sra. Liliana Barela;lilianabarela@buenosaires.gob.ar
+DGEART;SSPCULT;Dirección General de Enseñanza Artística;Sr. Marcelo Birman;mbirman@buenosaires.gob.ar
+DGIYME;SSPCULT;Dirección General de Infraestructura y Mantenimiento Edilicio;Ing. Miguel Angel Cervini;mcervini@buenosaires.gob.ar
+DGLBYPL;SSPCULT;Del Libro, Bibliotecas y Promoción de la Lectura, Dirección General;Sra. Alejandra Ramirez;aramirez@buenosaires.gob.ar
+SSGECP;MEGC;Subsecretaría de Gestión Educativa y Coordinación Pedagógica;Sr. Maximiliano  Gulmanelli;mgulmanelli@buenosaires.gob.ar
+DGEGE;SSGECP;Dirección General de Educación de Gestión Estatal;Sra. Marcela Cristina Goenaga;mgoenaga@buenosaires.gob.ar
+DGEGP;SSGECP;Dirección General de Educación de Gestión Privada;Lic. Beatriz  Jauregui;bjauregui@buenosaires.gob.ar
+DGEDS;SSGECP;Dirección General de Educación Superior;Sr. Marcelo FAbian Cugliandolo;mfcugliandolo@buenosaires.gob.ar
+JPMCABA;MJYSGC;Subsecretaría de Jefatura de Policía Metropolitana;Sr. Horacio Alberto Gimenez;horacio.gimenez@buenosaires.gob.ar
+SSPDRC;MJYSGC;Subsecretaría de Prevención del Delito y Relación con la Comunidad;Dr. Martin Borrelli;mborrelli@buenosaires.gob.ar
+DGPPD;SSPDRC;Dirección General de Políticas de Prevención del Delito;Sr. Vicente  Ventura Barreiro;vbarreiro@buenosaires.gob.ar
+SSSC;MJYSGC;Subsecretaría de Seguridad Ciudadana;Sr. Horacio Jose Garcia;hgarcia@buenosaires.gob.ar
+CSPD;SSSC;Consejo de Seguridad y Prevención del Delito;Sin Designación Oficial;
+DGCYSB;SSSC;Dirección General de Custodia y Seguridad de Bienes del GCABA;Dr. Juan pablo Sassano;juanpablosassano@buenosaires.gob.ar
+DGSPR;SSSC;Dirección General de Seguridad Privada;Sr. Ignacio Antonio Cocca;iacocca@buenosaires.gob.ar
+DGMYT;SSUEP;Dirección General de Mantenimiento y Talleres;Sr. Maximiliano Vallejos;mvallejos@buenosaires.gob.ar
+UCAS;SSASS;Unidad Centralizada de Adquisiciones de Salud;Sin Designación Oficial;
+SJPMCABA;JPMCABA;Subjefatura de Policía Metropolitana;Sr. Ricardo Raul Pedace;ricardo.pedace@buenosaires.gob.ar
+COMUNA1;SSATCIU;Comuna Nº 1;Sra. Cristina Brunet;cbrunet@buenosaires.gob.ar
+COMUNA2;SSATCIU;Comuna Nº 2;Sr. Facundo Carrillo;fcarrillo@buenosaires.gob.ar
+COMUNA3;SSATCIU;Comuna Nº 3;Sr. Christian Ruben Etchezuri;cetchezuri@buenosaires.gob.ar
+COMUNA4;SSATCIU;Comuna Nº 4;Sr. Jorge Apreda;japreda@buenosaires.gob.ar
+COMUNA5;SSATCIU;Comuna Nº 5;Sr. Marcelo Bouzas;mbouzas@buenosaires.gob.ar
+COMUNA6;SSATCIU;Comuna Nº 6;Sr. Marcelo Iambrich;miambrich@buenosaires.gob.ar
+COMUNA7;SSATCIU;Comuna Nº 7;Sr. Guillermo Martin Peña Barros;gpenia@buenosaires.gob.ar
+COMUNA8;SSATCIU;Comuna Nº 8;Sra. Rosalia Eva  Ferraro;referraro@buenosaires.gob.ar
+COMUNA9;SSATCIU;Comuna Nº 9;Sr. Nestor Omar Dinatale;ndinatale@buenosaires.gob.ar
+COMUNA10;SSATCIU;Comuna Nº 10;Sr. Agustin Marcos Ferrari;a.ferrari@buenosaires.gob.ar
+COMUNA11;SSATCIU;Comuna Nº 11;Sr. Carlos Alberto Guzzini;cguzzini@buenosaires.gob.ar
+COMUNA12;SSATCIU;Comuna Nº 12;Sr. Nestor Dall Alpi;ndallalpi@buenosaires.gob.ar
+COMUNA13;SSATCIU;Comuna Nº 13;Sr. Gustavo Acevedo;gustavoacevedo@buenosaires.gob.ar
+COMUNA14;SSATCIU;Comuna Nº 14;Sr. Maximiliano Corach;mcorach@buenosaires.gob.ar
+COMUNA15;SSATCIU;Comuna Nº 15;Sr. Ignacio Crevena;icrevena@buenosaires.gob.ar
+SCCA;SSMYP;Señal de Cable Ciudad Abierta;Sr. Eduardo Alberto Cura;eduardo.cura@buenosaires.gob.ar
+LS1;SSMYP;LS1 Radio de la Ciudad;Sr. Baltazar  Jaramillo;bjaramillo@buenosaires.gob.ar
+UPESMP;SSMYP;Unidad de Proyectos Especiales Sistema de Medios Públicos;Lic. Alejandro Pablo Avelluto;aavelluto@buenosaires.gob.ar
+DGCPR;SSMYP;Dirección General de Coordinación de Prensa;Sr. Carlos Galligani;cgalligani@buenosaires.gob.ar
+DGNM;SSMYP;Dirección General de Nuevos Medios;Sra. Julieta Goldman;jgoldman@buenosaires.gob.ar
+UPEAMBA;MGOBGC;Unidad de Proyectos Especiales Área Metropolitana de Buenos Aires;Lic. Diego Valenzuela;dvalenzuela@buenosaires.gob.ar
+DGGOBE;ASINF;Dirección General de Gobierno Electrónico;Sr. Daniel Abadie;dabadie@buenosaires.gob.ar
+SSTURI;MCGC;Subsecretaría de Turismo;Sr. Miguel Gutierrez;m.gutierrez@buenosaires.gob.ar
+CGGP;ASINF;Coordinación General de Gestión de Proyectos;Sr. Carlos Irineo Bogado;cbogado@buenosaires.gob.ar
+UPEDG;MDUGC;UPE Distrito Gubernamental;Arq. Sonia Terreno;sterreno@buenosaires.gob.ar
+SSEE;MEGC;Subsecretaría de Equidad Educativa;Lic. Soledad Acuna;sacuna@buenosaires.gob.ar
+DGEED;SSEE;Dirección General de Estratégias para la Educabilidad;Sra. ANDREAFERNADA BRUZOS;abruzos@buenosaires.gob.ar
+DGFCE;SSEE;Dirección General de Fortalecimiento de la Comunidad Educativa;Lic. Juan Ignacio Salari;jsalari@buenosaires.gob.ar
+UAIEATC;EATC;Unidad de Auditoría Interna del Ente Autárquico Teatro Colón;Sra. Isabel Valente;ivalente@buenosaires.gob.ar
+SSAPU;MJGGC;Subsecretaría de Asuntos Públicos;Dr. Alvaro Gonzalez;alvaro.gonzalez@buenosaires.gob.ar
+DGSOCAI;SSAPU;Dirección General Seguimiento de Organismos de Control y Acceso a la Información;Lic. Mariana Lastiri;mlastiri@buenosaires.gob.ar
+DGCPYRI;SSAPU;Dirección General Coord. de la Gestión Política y Relaciones Institucionales;Sr. Ricardo Scarano;rscarano@buenosaires.gob.ar
+DGALE;SSGOBIER;Direccion General de Asuntos Legislativos;Sra. Maria Julia De Bariazarra;mdebariazarra@buenosaires.gob.ar
+DGRECCP;SSGOBIER;Dirección General de Registro del Estado Civil y Cap. De las Personas;Dra. Ana María Lavaque;alavaque@buenosaires.gob.ar
+UECSPD;SSSC;Unidad de Enlace del Consejo de Seguridad y Prevención del Delito;Lic. Marcelo Viegas Calçada;mviegascalzada@buenosaires.gob.ar
+DGAPEN;PG;Dirección General de Asuntos Penales;Dr. Francisco Jose Dalbora;franciscodalbora@buenosaires.gob.ar
+DGIJE;PG;Dirección General de Información Jurídica y Extensión;Dra. Maria Jose Rodriguez;mjrodriguez@buenosaires.gob.ar
+SSDDPCIU;SECGCYAC;Subsecretaría de Descentralización Desconcentración y Participación Ciudadana;Sr. Sergio Gabriel Costantino;sgcostantino@buenosaires.gob.ar
+DGPCIU;SSDDPCIU;Dirección General Participación Ciudadana;Srta. Marina Hernandez;marinahernandez@buenosaires.gob.ar
+DGDESC;SSDDPCIU;Dirección General Descentralización Comunal;Sr. MARCELO MARTINEZ;marcelomartinez@buenosaires.gob.ar
+DGSDME;SSDDPCIU;Dirección General Servicios Desconcentrados y Mantenimiento Edilicio;Arq. Ariel Gustavo Iasge;aiasge@buenosaires.gob.ar
+COCI;SSDDPCIU;Consejo de Coordinación Intercomunal;Sin Designación Oficial;
+UAC;SSDDPCIU;Unidad de Atención ciudadana;Sin Designación Oficial;
+SSADM;MAYEPGC;Subsecretaría de Administración;Dr. Lisandro Agustin  Greco;lgreco@buenosaires.gob.ar
+DGTALMAEP;SSADM;Técnica, Administrativa y Legal, Dirección General de;Dr. Ezequiel Patricio Pazos Verni;epazosverni@buenosaires.gob.ar
+DGCGEST;SSADM;Dirección General de Control de Gestión;Sra. Florencia Valia;florvalia@buenosaires.gob.ar
+DGLTAGIP;AGIP;Dirección General Legal y Técnica AGIP;Sr Juan Carlos Pérez Colman;
+CUMAR;MGOBGC;Unidad de Proyectos Especiales Cuenca Matanza - Riachuelo;Lic. Silvia Lospennato;slospennato@buenosaires.gob.ar
+DGPCINT;SSAPOL;Dirección General Programas de Cooperación lnterjurisdiccional;Ing. Florencia Romano;fromano@buenosaires.gob.ar
+DGRPOL;SSAPOL;Dirección General Reforma Política;Dr. Marcelo Fabian Bermolen;mbermolen@buenosaires.gob.ar
+DGCCIU;SSAFED;Dirección General Casas de la Ciudad;LIc. Guillermo Bardon;gbardon@buenosaires.gob.ar
+SBASE;MJGGC;Subterráneos de Buenos Aires Sociedad del Estado;Ing. Juan Piccardo;jppiccardo@buenosaires.gob.ar
+DGCRI;MJYSGC;Dirección General de Comunicación y Relaciones Institucionales;Dra. Vanesa Diaz;vanesa.diaz@buenosaires.gob.ar
+DGSSZO;SSFFYC;Dirección General de Servicios Sociales Zonales;Sra. Marcela Rumi;mrumi@buenosaires.gob.ar
+CMCENTRAL;MHGC;Corporación Mercado Central;Sin Designación Oficial;
+DGPYDEST;MDEGC;Dirección General de Planeamiento y Desarrollo Estratégico;Dr. Santiago Hardie;shardie@buenosaires.gob.ar
+DGDTERRI;SECHI;Dirección General de Desarrollo Territorial;Sra. Maria Marta Piran;mmpiran@buenosaires.gob.ar
+DGTNT;SSHU;Dirección General de Tratamiento y Nuevas Tecnologías;Ing. Thierry Decoud;tdecoud@buenosaires.gob.ar
+DGTALMOD;MMGC;Administrativa y Legal Dirección General Técnica;Sr. Oscar Caeiro;ocaeiro@buenosaires.gob.ar
+DGAYCO;SSGRH;Dirección General Auditoría y Control Operativo;Dr. Pedro Pourthe;ppourthe@buenosaires.gob.ar
+DGCHU;SSGRH;Dirección General de Capital Humano;Sra. Cecilia Klappenbach;cklappenbach@buenosaires.gob.ar
+DGPLC;SSGRH;Dirección General de Planeamiento de Carreras;Sra. Julia Raquel Domeniconi;jdomeniconi@buenosaires.gob.ar
+DGABDP;SSGPM;Dirección General Administración de Bases de Datos y Proyectos;Lic. Eugenia Cutini;ecutini@buenosaires.gob.ar
+DGFVP;SSADM;Dirección General Fiscalización en la Vía Pública;Sr. Matias Lanusse;mlanusse@buenosaires.gob.ar
+SSFIN;MHGC;Subsecretaría de Finanzas;Lic. Gustavo Eglez;geglez@buenosaires.gob.ar
+UFOMC;SSFIN;Unidad de Financiamiento con Organismos Multilaterales de Crédito;Lic. Mariela Marchione;marielamarchione@buenosaires.gob.ar
+DGMFAMH;MHGC;Dirección General de Mantenimiento de la Flota Automotor;SR. Carlos Leonardo D'Angelo;cldangelo@buenosaires.gob.ar
+DGUIAF;MHGC;Dirección General de Unidad Informática de Administración Financiera;Sr. Walter Delochio;wdelochio@buenosaires.gob.ar
+DGRP;MHGC;Dirección General Redeterminación de Precios;Cdor. Ariel Salvador;asalvador@buenosaires.gob.ar
+DGPADM;MHGC;Dirección General de Procesos Administrativos;Lic. Javier  Salas Bulacio;jbulacio@buenosaires.gob.ar
+SSGAE;MHGC;Subsecretaría de Gestión y Administración Económica;Cdor. Martin Mura;mmura@buenosaires.gob.ar
+DGTES;SSGAE;Dirección General de Tesorería;Lic. Horacio Stavale;hstavale@buenosaires.gob.ar
+DGATES;DGTES;Dirección General Adjunta de Tesorería;Lic. Fernando Gustavo Riavec;friavec@buenosaires.gob.ar
+DGCG;SSGAE;Dirección General de Contaduría;Dr. Gaston Messineo;gmessineo@buenosaires.gob.ar
+DGACG;DGCG;Dirección General Adjunta de Contaduría;Cdora Grisela Gabelli;ggabelli@buenosaires.gob.ar
+DGOGPP;SSGAE;Dirección General de Oficina de Gestión Pública y Presupuesto;Sr. Hugo Callegari;hcallegari@buenosaires.gob.ar
+DGCYC;SSGAE;Dirección General deCompras y Contrataciones;Lic. Victoria  Rodriguez Quintana;vrodriguezquintana@buenosaires.gob.ar
+DGRFIS;SSFIN;Dirección General de Relaciones Fiscales;Lic. Gabriel Vilches;gvilches@buenosaires.gob.ar
+DGCPUB;SSFIN;Dirección General de Credito Público;Lic. Abel I. Fernandez Semhan;aifernandez@buenosaires.gob.ar
+DGSEGUROS;SSFIN;Dirección General de Seguros;Lic. Ricardo Mauricio  Clement;rclement@buenosaires.gob.ar
+DGGDOC;SECLYT;Dirección General Gestión Documental;Sra. Rita Eugenia Dominguez Alonso;redominguez@buenosaires.gob.ar
+UPEJOL;MJGGC;Unidad de Proyectos Especiales Juegos Olímpicos de la Juventud Buenos Aires 2018;Sr. Francisco Irarrazaval;firarrazaval@buenosaires.gob.ar
+SSECRE;MDEGC;Subsecretaría de Economía Creativa;Lic. Enrique Avogadro;eavogadro@buenosaires.gob.ar
+DGINC;SSECRE;Dirección General de Industrias Creativas;Lic. Mora Scillama;mscillama@buenosaires.gob.ar
+DGEMPR;SSECRE;Dirección General Emprendedores;Sr. Mariano Mayer;marianomayer@buenosaires.gob.ar
+DGCYTEC;SSECRE;Dirección General Ciencia y Tecnología;Dr. Carlos Alberto Melo;carlosmelo@buenosaires.gob.ar
+SSTIYC;MDEGC;Industria y Comercio Subsecretaría de Trabajo;Cdor. Ezequiel Sabor;esabor@buenosaires.gob.ar
+DGEMP;SSTIYC;Dirección General de Empleo;Sr. Ezequiel Jarvis;ejarvis@buenosaires.gob.ar
+DGPDT;SSTIYC;Dirección General de Protección del Trabajo;Dr. Fernando Ezequiel Macchi;fmacchi@buenosaires.gob.ar
+DGRLAB;SSTIYC;Dirección General de Relaciones Laborales;Sra. Florencia Caparrós;fcaparros@buenosaires.gob.ar
+DGCONC;MDEGC;Dirección General de Concesiones;Dr. Gabriel maria Astarloa;gastarloa@buenosaires.gob.ar
+DGRU;SSUEP;Dirección General de Regeneración Urbana;Sra. Clara Muzzio;cmuzzio@buenosaires.gob.ar
+DGSPLU;SSMEP;Dirección General de Sistema Pluvial;Sr. Ezequiel Capelli;ecapelli@buenosaires.gob.ar
+DGPYPRE;SSADM;Dirección General Planificación y Presupuesto;Sr. Ignacio Gomez;ignaciogomez@buenosaires.gob.ar
+UCGCG;APRA;Unidad de Coordinación General de Control de Gestión;Sr. Juan Carlos Sanchez;jcsanchez@buenosaires.gob.ar
+UCGGA;UCGCG;Unidad de Coordinación General de Gestión Ambiental;Sr. Javier Ureta;javierureta@buenosaires.gob.ar
+DGPLINED;MEGC;Dirección General de Planeamiento e Innovación Educativa;Sra. Mercedes Miguel;mmiguel@buenosaires.gob.ar
+UPEOVOSD;MDUGC;UPE Obras Villa Olímpica y Sedes Deportivas;Arq. Florencia Pinero;fpinero@buenosaires.gob.ar
+DGIGA;MMGC;Dirección General Innovación y Gobierno Abierto;Sr. Rudi  Borrmann;rborrmann@buenosaires.gob.ar
+DGINPR;SSGPM;Dirección General Ingeniería de Proyectos;Lic. Gerardo Osterrieth;gosterrieth@buenosaires.gob.ar
+UPECMS;MMGC;(UPE) Ciudad Moderna y Sustentable;Cdra. Alejandra Scafati;ascafati@buenosaires.gob.ar
+DGPDES;GCBA;Programas Descentralizados;Sra. Noris Pignata;npignata@buenosaires.gob.ar
+DGSAP;CDNNYA;Dirección General de Servicos de Atención Permanente;Sin Designación Oficial;
+DGRIPSOC;MDSGC;Dirección General Red Integral de Protección Social;Dr. Ramón M. Lanús;rlanus@buenosaires.gob.ar
+DGSSOCAB;SSJUS;Dirección General de Asistencia a Beneficiarios de la ex (CASSABA);Sr. Luis Galvalisi;lgalvalisi@buenosaires.gob.ar
+CAPPM;SSDHPC;Consejo Asesor en Políticas Públicas de Memoria;Sin Designación Oficial;
+DGPOLSEG;SSSC;Dirección General Políticas de Seguridad Ciudadana;Lic. Guillermo Patricio Madero;guillermomadero@buenosaires.gob.ar
+DGID;SSDEP;Dirección General Infraestructura Deportiva;Sr. German Ferrando;gferrando@buenosaires.gob.ar
+DGADMDEP;SSDEP;Dirección General Administración y Organización Deportiva;Dr. Indalecio Lopez Diaz;ilopezdiaz@buenosaires.gob.ar
+DGPROYECT;SSEPUC;Dirección General Proyectos;Arq. Felix De Alzaga;fdealzaga@buenosaires.gob.ar
+DGRII;MSGC;Dirección General Relaciones Inter-Institucionales;Dr. Francisco Tropea;ftropea@buenosaires.gob.ar
+DGLTSSASS;MSGC;Dirección General de Legal y Técnica;Dr. Luis Maria Lopez Del Carril;lmlopezdelcarril@buenosaires.gob.ar
+UPEPIEF;MEGC;Unidad de Proyectos Especiales Plan Integral de Educación Federal;Prof Ana Maria Ravaglia;amravaglia@buenosaires.gob.ar
+DGTYTRA;SSTRANS;Dirección General de Transito y Transporte;Ing. Guillermo Krantzer;gkrantzer@buenosaires.gob.ar
+DGPMOV;SSTRANS;Dirección General de Planificación de la Movilidad;Ing. German Bussi;gbussi@buenosaires.gob.ar
+UPEPH;MDUGC;Unidad de Proyectos Especiales Plan Hidráulico;Sin Designación Oficial;
+SSCI;MMGC;Subsecretaria de Ciudad Inteligente;Dr. Fernando Benegas;fernandobenegas@buenosaires.gob.ar
+DGMSC;SSCI;Dirección General Modernización de Servicios al Ciudadano;Sr. Pablo Fernandez Saenz;pfernandezsaenz@buenosaires.gob.ar
+DGPCI;SSCI;Dirección General de Proyectos de Ciudad Inteligente;Sr. Santiago Montanaro;smontanaro@buenosaires.gob.ar
+DGRLI;MMGC;Dirección General Relaciones Laborales e Institucionales;Sr. Carlos  Lelio;clelio@buenosaires.gob.ar
+UPEIS;MMGC;Unidad de Proyectos Especiales Innovación Social;Sin Designación Oficial;
+UEICEE;MEGC;Unidad de Evaluación Integral de la Calidad y Equidad Educativa;Sr. Sergio Siciliano;sergiosiciliano@buenosaires.gob.ar
+UAIENTUR;ENTUR;Unidad de Auditoría Interna;Dr. Pablo Franck;pfranck@buenosaires.gob.ar
+DGTALET;ENTUR;Administrativa y Legal Dirección General Técnica;Sr. Jesus Acevedo;jesusacevedo@buenosaires.gob.ar
+DGIOT;ENTUR;Dirección General de Investigación y Observatorio Turístico;Lic. Monica Kapusta;mkapusta@buenosaires.gob.ar
+DGPRT;ENTUR;Dirección General Promoción Turística;Lic. Valentin Diaz Gilligan;vdiazgilligan@buenosaires.gob.ar
+DGDYCOF;ENTUR;Dirección General de Desarrollo y Competitividad de la Oferta;Sta. Alejandra Densie Karavaitis;akaravaitis@buenosaires.gob.ar
+DECT;ENTUR;Dirección Ejecutiva de Comunicación Turística;Lic. Ezequiel Lucas Colombo;elcolombo@buenosaires.gob.ar
+DGCTCD;DECT;Dirección General de Comunicación Turística de Contacto Directo;Lic. Consuelo Garcia Frugoni;cgarciafrugoni@buenosaires.gob.ar
+DGCDYNT;DECT;Dirección General de Canales Digitales y Nuevas Tecnologías;Sr. Pablo Alaniz;pabloalaniz@buenosaires.gob.ar
+DGECM;DECT;Dirección General de Estrategias de Comunicación Masiva;Lic. Lucia  Aranda;laranda@buenosaires.gob.ar
+ESCM;DGPLINED;Escuela de Maestros;Sra. Mercedes Miguel;mmiguel@buenosaires.gob.ar
+UPECRGCBA;MJGGC;UPE Coordinación de Relocalización del Gobierno de la Ciudad Autónoma de Buenos Aires;Ing. Marcelo Palacio;mpalacio@buenosaires.gob.ar
+EPF;SECLYT;Autoridad interina de Aplicación de la Ley N° 4.895 y su Dec. Reglamentario N°435/14;Lic. Nicolas Galvagni Pardo;ngalvagnipardo@buenosaires.gob.ar
+UPEORS;MDUGC;UPE Obras Red de Subterraneos;Sr. Eduardo Firvida;efirvida@buenosaires.gob.ar
